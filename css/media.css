@@ -1,0 +1,1639 @@
+/* ----- MEDIA ----- */
+@media(min-width: 1200px){
+    .container{
+        max-width: 1210px;
+    }
+}
+@media(max-width: 1439px){
+    /* ----- SECTION PROJECTS ----- */
+    .section-projects .title .line {
+        width: 306%;
+    }
+    .section-projects .content-wrap {
+        padding: 3.8rem 2.3rem 4.1rem 2rem;
+    }
+    .section-projects .title .line span:first-child {
+        max-width: 34.4%;
+    }
+    .section-projects .image-content p br {
+        display: none;
+    }
+    /* ----- /SECTION PROJECTS ----- */
+    /*  */
+    /* ----- SECTION INDUSTRIES ----- */
+    .industry-item .industry-item-content {
+        left: 1rem;
+        bottom: 1.3rem;
+    }
+    /* ----- /SECTION INDUSTRIES ----- */
+    /*  */
+    /* ----- SECTION MESSAGE ----- */
+    .section-message .content-wrap {
+        padding: 4.9rem 3.3rem 3.7rem 5.9rem;
+    }
+    .section-message .title .line {
+        width: 160%;
+    }
+    /* ----- /SECTION MESSAGE ----- */
+    /*  */
+    /* ----- SECTION CONTACT US ----- */
+    .section-contact-us .content-wrap {
+        padding: 7rem 2.3rem 5.1rem;
+    }
+    /* ----- /SECTION CONTACT US ----- */
+    /*  */
+    /* ----- SECTION AWARDS ----- */
+    .section-awards .container {
+        padding: 0 1.875rem;
+    }
+    /* ----- /SECTION AWARDS ----- */
+    /*  */
+    /* ----- SECTION TEXT ----- */
+    .section-text .container {
+        padding: 0 1.875rem;
+    }
+    /* ----- /SECTION TEXT ----- */
+    /*  */
+    /* ----- SECTION IMAGE CONTENT ----- */
+    .section-image-content .content-wrap {
+        padding: 6.95rem 5.2rem 5.25rem;
+    }
+    .section-image-content.image-left .content-wrap {
+        padding: 6.95rem 5.1rem 4.75rem;
+    }
+    /* ----- /SECTION IMAGE CONTENT ----- */
+    /*  */
+    /* ----- SECTION LAVAR ----- */
+    .section-lavar .container {
+        padding: 0 1.875rem;
+    }
+    /* ----- /SECTION LAVAR ----- */
+    /*  */
+    /* ----- SECTION SERVICES ----- */
+    .section-services-gray .row {
+        margin: 0 3rem;
+    }
+    /* ----- /SECTION SERVICES ----- */
+    /*  */
+    /* ----- SECTION CONTACT ----- */
+    .section-contact .container {
+        padding: 0 1.875rem;
+    }
+    .section-contact .form-wrap {
+        padding: 4.9rem 2.9rem 6.4rem;
+    }
+    .section-contact .form-wrap .bottom-nav img {
+        max-width: 57.9%;
+    }
+    .section-contact .content-wrap .col:last-child {
+        height: auto;
+    }
+    /* ----- /SECTION CONTACT ----- */
+    /*  */
+}
+@media(max-width: 1199px){
+    /* ----- HEADER ----- */
+    .header .header-nav {
+        padding: 4.9rem 3.3rem 5.3rem;
+    }
+    /* ----- /HEADER ----- */
+    /*  */
+    /* ----- SECTION INDUSTRIES ----- */
+    .industry-item .industry-item-content {
+        left: 0.4rem;
+        bottom: 0.5rem;
+    }
+    /* ----- /SECTION INDUSTRIES ----- */
+    /*  */
+    /* ----- SECTION PROJECTS ----- */
+    .section-projects .col:first-child {
+        flex: 0 0 36.2%;
+        max-width: 36.2%;
+    }
+    .section-projects .image-wrap {
+        height: 38rem;
+    }
+    .section-projects .image-wrap img {
+        object-position: center;
+    }
+    .section-projects .content-wrap {
+        padding: 1.8rem 2.1rem 2.1rem 1.5rem;
+    }
+    /* ----- /SECTION PROJECTS ----- */
+    /*  */
+    /* ----- SECTION COMPANIES ----- */
+    .section-companies .nav-tabs .col {
+        flex: 0 0 21.8%;
+        max-width: 21.8%;
+    }
+    .section-companies .tab-pane .content-wrap {
+        padding: 3rem 4.4rem 2.8rem 4rem;
+    }
+    /* ----- /SECTION COMPANIES ----- */
+    /*  */
+    /* ----- SECTION MESSAGE ----- */
+    .section-message .content-wrap {
+        padding: 4.9rem 1.5rem 3.7rem 1.9rem;
+    }
+    .section-message .title .line {
+        width: 140.3%;
+    }
+    .section-message .title {
+        margin-bottom: 3.5rem;
+    }
+    /* ----- /SECTION MESSAGE ----- */
+    /*  */
+    /* ----- FOOTER ----- */
+    .subscribe .subscribe-title {
+        margin-right: 1rem;
+    }
+    .footer .col:first-child {
+        flex: 0 0 13.6%;
+        max-width: 13.6%;
+    }
+    .footer .col:nth-child(2) {
+        flex: 0 0 12.9%;
+        max-width: 12.9%;
+    }
+    .footer .col:nth-child(3) {
+        flex: 0 0 27.4%;
+        max-width: 27.4%;
+    }
+    .subscribe .subscribe-title {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 0.5rem;
+    }
+    .footer .footer-contact .footer-contact-col:first-child {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    /* ----- /FOOTER ----- */
+    /*  */
+    /* ----- SECTION CONTACT US ----- */
+    .section-contact-us .content-wrap{
+        background-size: cover;
+    }
+    /* ----- /SECTION CONTACT US ----- */
+    /*  */
+    /* ----- SECTION OUR MISSION ----- */
+    .section-our-mission .right-col .content-wrap {
+        padding: 5rem 2.1rem 5.35rem 0;
+    }
+    .section-our-mission .content-wrap {
+        padding: 5rem 0 5.35rem 2.1rem;
+    }
+    /* ----- /SECTION OUR MISSION ----- */
+    /*  */
+    /* ----- SECTION PAGE TITLE ----- */
+    .section-page-title .page-title-content {
+        background-repeat: no-repeat repeat;
+        background-position-y: top;
+    }
+    /* ----- /SECTION PAGE TITLE ----- */
+    /*  */
+    /* ----- SECTION IMAGE CONTENT ----- */
+    .section-image-content .content-col {
+        flex: 0 0 37.5%;
+        max-width: 37.5%;
+    }
+    .section-image-content .image-content {
+        padding: 1.5rem 2.3rem;
+    }
+    .section-image-content .content-wrap .line span:last-child {
+        width: 82.8%;
+    }
+    .section-image-content.image-left .content-wrap {
+        padding: 6.95rem 3.2rem 4.75rem;
+    }
+    .section-image-content .content-wrap {
+        padding: 6.95rem 3.2rem 5.25rem;
+    }    
+    .section-image-content.image-left .content-wrap .line span:last-child {
+        width: 39.7%;
+    }
+    /* ----- /SECTION IMAGE CONTENT ----- */
+    /*  */
+    /* ----- SECTION LAVAR ----- */
+    .section-lavar p br {
+        display: none;
+    }
+    .section-lavar .col .line {
+        margin-bottom: 4.1rem;
+    }
+    /* ----- /SECTION LAVAR ----- */
+    /*  */
+    /* ----- SECTION ISO ----- */
+    .section-iso .content-wrap .line {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    /* ----- /SECTION ISO ----- */
+    /*  */
+    /* ----- SECTION AGENCIES ----- */
+    .section-services .content-wrap {
+        padding-bottom: 6rem;
+    }
+    .section-agencies .industry-item .industry-item-content p {
+        font-size: 0.875rem;
+        line-height: 1.125rem;
+    }
+    .section-agencies .industry-item .industry-item-content h3 {
+        margin-bottom: 0.5rem;
+    }
+    .section-agencies .industry-item .industry-item-content {
+        right: 1rem;
+        left: 1rem;
+        bottom: 1rem;
+    }
+    /* ----- /SECTION AGENCIES ----- */
+    /*  */
+    /* ----- SECTION SERVICES ----- */
+    .section-services-gray .row {
+        margin: 0 2rem;
+    }
+    /* ----- /SECTION SERVICES ----- */
+    /*  */
+    /* ----- SECTION FACILITIES ----- */
+    .section-facilities .left-col {
+        padding: 3.5rem 2.2rem 2.15rem 2.2rem;
+    }
+    /* ----- /SECTION FACILITIES ----- */
+    /*  */
+    /* ----- SECTION LANGUAGES ----- */
+    .section-languages .content-wrap{
+        padding-left: 2.2rem;
+    }
+    /* ----- /SECTION LANGUAGES ----- */
+    /*  */
+    /* ----- SECTION MARINA ----- */
+    .section-marina {
+        padding-top: 6.7rem;
+        padding-bottom: 5.65rem;
+    }   
+    .section-marina .col:last-child {
+        flex: 1;
+    }
+    /* ----- /SECTION MARINA ----- */
+    /*  */
+    /* ----- SECTION CONTACT ----- */
+    .section-contact .form-wrap {
+        padding: 3.9rem 1.5rem 4.4rem;
+    }
+    .section-contact .form-wrap .bottom-nav img {
+        max-width: 52.9%;
+    }
+    /* ----- /SECTION CONTACT ----- */
+    /*  */
+}
+@media(max-width: 1023px){
+    h1, h2 {
+        font-size: 2.1875rem;
+        line-height: 2.625rem;
+    }
+    .container-fluid, .container {
+        padding: 0 1.3rem;
+    }
+    /* ----- HEADER ----- */
+    .header {
+        padding: 1.75rem 3.6rem;
+    }
+    .header .header-nav {
+        padding: 9.9rem 3.6rem 11.3rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+    .header .menu .number {
+        margin-right: 1.7rem;
+        margin-top: -0.2rem;
+    }
+    .header .menu li {
+        font-size: 2.875rem;
+        letter-spacing: 3.29px;
+        line-height: 3.375rem;
+        margin-bottom: 1.28rem;
+    }
+    .header .menu li > a {
+        position: relative;
+    }
+    .header .menu .has-sub-menu > a:after {
+        content: '';
+        width: 1.8rem;
+        height: 0.9rem;
+        background-image: url(../img/arrow-bottom.svg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        top: 1.5rem;
+        right: -0.5rem;
+        transform: rotate(-90deg);
+        transition: 0.4s;
+        background-position: center;
+    }
+    .header .menu .has-sub-menu.sub-menu-open > a:after{
+        transform: rotate(0deg);
+        transition: 0.4s;
+        right: 0.1rem;
+        top: 1.6rem;
+    }
+    .header .sub-menu{
+        margin-left: 3rem;
+    }
+    .header .menu .sub-menu li{
+        font-size: 1rem;
+        line-height: 1.17375rem;
+        letter-spacing: 1px;
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 0.6rem;
+    }
+    .header li.sub-menu-open .sub-menu {
+        margin-top: 0.9rem;
+        margin-bottom: -0.4rem;
+    }
+    .header.menu-open .header-nav {
+        height: 100vh;
+    }
+    .header .header-contact {
+        margin-top: auto;
+    }
+    .header .header-contact > a {
+        max-width: 52.5%;
+        flex: 0 0 52.5%;
+        margin-bottom: 2.5rem;
+    }
+    .header .header-contact > div a {
+        margin-left: 0;
+        margin-right: 2.2rem;
+    }
+    /* ----- /HEADER ----- */
+    /*  */
+    /* ----- SECTION HERO ----- */
+    .section-hero .owl-carousel .item {
+        height: calc(100vh - 80px);
+        padding-bottom: 5.3rem;
+        background-position: center;
+    }
+    .section-hero h4 {
+        margin-bottom: 0.5rem;
+        letter-spacing: 6px;
+    }
+    .section-hero .owl-carousel .owl-nav{
+        display: none;
+    }
+    .owl-carousel .owl-dots .owl-dot {
+        height: 2px;
+        width: 3.625rem;
+    }
+    /* ----- /SECTION HERO ----- */
+    /*  */
+    /* ----- SECTION GROUP ----- */
+    .section-group {
+        padding-bottom: 5rem;
+    }
+    .section-group .lead-large br{
+        display: none;
+    }
+    /* ----- /SECTION GROUP ----- */
+    /*  */
+    /* ----- SECTION PROJECTS ----- */
+    .section-projects .title .line {
+        width: 100%;
+    }
+    /* ----- /SECTION PROJECTS ----- */
+    /*  */
+    /* ----- SECTION MESSAGE ----- */
+    .section-message .title .line {
+        width: 100%;
+    }
+    .section-message .col:first-child {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    /* ----- /SECTION MESSAGE ----- */
+    /*  */
+    /* ----- SECTION INDUSTRIES ----- */
+    .section-industries .col:nth-child(2), 
+    .section-industries .col:nth-child(3), 
+    .section-industries .col:nth-child(4), 
+    .section-industries .col:nth-child(5) {
+        padding-top: 0;
+    }
+    .industry-item .industry-item-content {
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .section-industries .content-wrap{
+        margin-top: 0;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .section-industries .content-wrap h2 {
+        margin-bottom: 1rem;
+    }
+    .section-industries .content-wrap p {
+        max-width: 15rem;
+    }
+    .section-industries {
+        padding-bottom: 5.2rem;
+    }
+    /* ----- /SECTION INDUSTRIES ----- */
+    /*  */
+    /* ----- SECTION PROJECTS ----- */
+    .section-projects .image-wrap {
+        margin: 0;
+        padding: 0;
+        height: 25rem;
+    }
+    .section-projects .image-content {
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        max-width: 100%;
+        padding: 4rem 1.4rem 0;
+    }
+    .section-projects .image-content:before {
+        content: '';
+        height: 1px;
+        background: #fff;
+        width: 11rem;
+        display: block;
+        margin: 0 auto 0.9rem;
+    }
+    .section-projects .col:first-child {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .section-projects .content-wrap {
+        padding: 3.55rem 0 4rem 0;
+        text-align: center;
+    }
+    .section-projects .title h4 {
+        margin-bottom: 0.7rem;
+    }
+    .section-projects .title .line span:first-child {
+        max-width: 100%;
+    }
+    .section-projects .title .line span:last-child {
+        background: #0057A8;
+    }
+    .section-projects .title {
+        margin-bottom: 2.2rem;
+    }
+    .section-projects .content-wrap p {
+        max-width: 100%;
+        margin: 0 auto 1rem;
+    }
+    .section-projects .btn {
+        padding: 0.6rem 0.6rem;
+        margin-top: 1.15rem;
+    }
+    .section-projects .col{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    /* ----- /SECTION PROJECTS ----- */
+    /*  */
+    /* ----- SECTION COMPANIES ----- */
+    .section-companies .title img {
+        position: static;
+        order: 1;
+        margin-bottom: 3.8rem;
+    }
+    .section-companies .title {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0;
+    }
+    .section-companies .title h4 {
+        order: 2;
+    }
+    .section-companies .title .line {
+        order: 3;
+    }
+    .section-companies {
+        padding-top: 2.3rem;
+    }
+    .section-companies .content-wrap{
+        background-color: #0057A8;
+        color: #fff;
+        padding: 3.1rem 1.1rem 4.7rem 1rem;
+    }
+    .section-companies .logo-wrap {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 1rem 3.2rem;
+        height: 8.5rem;
+        margin-bottom: 4.7rem;
+    }
+    .section-companies .logo-wrap img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+    .section-companies .owl-carousel img{
+        width: auto;
+    }
+    .section-companies .content-wrap .link {
+        margin-top: 3.1rem;
+    }
+    .section-companies .owl-carousel .owl-dots {
+        position: absolute;
+        top: 10.7rem;
+        display: flex;
+        justify-content: center;
+        left: 0;
+        right: 0;
+        bottom: auto;
+    }
+    .section-companies .owl-carousel .owl-dots .owl-dot,
+    .section-companies .owl-carousel .owl-dots .owl-dot:nth-child(2n+1) {
+        background: #F1F1F1;
+        width: 0.625rem;
+        height: 0.625rem;
+        border-radius: 50%;
+        margin: 0 0.28rem;
+    }
+    .section-companies .owl-carousel .owl-dots .owl-dot.active {
+        background: #0057A8;
+    }
+    /* ----- /SECTION COMPANIES ----- */
+    /*  */
+    /* ----- SECTION NEWS ----- */
+    .news-item {
+        margin-bottom: 3rem;
+    }
+    /* ----- /SECTION NEWS ----- */
+    /*  */
+    /* ----- SECTION CONTACT US ----- */
+    .section-contact-us .content-wrap p br {
+        display: none;
+    }
+    /* ----- /SECTION CONTACT US ----- */
+    /*  */
+    /* ----- FOOTER ----- */
+    .footer .footer-content {
+        padding-top: 2.5rem;
+    }
+    .footer .row {
+        margin: 0 0.8rem;
+    }
+    .footer .col:first-child {
+        flex: 0 0 18.1%;
+        max-width: 18.1%;
+    }
+    .footer .footer-link {
+        margin-bottom: 0.3rem;
+        white-space: nowrap;
+    }
+    .footer .col {
+        padding: 0;
+    }
+    .footer .col:nth-child(2) {
+        flex: 0 0 18.5%;
+        max-width: 18.5%;
+    }
+    .footer .col:nth-child(3) {
+        flex: 0 0 37.8%;
+        max-width: 37.8%;
+    }
+    .footer .col:nth-child(4) {
+        flex: 0 0 10.9%;
+        max-width: 10.9%;
+    }
+    .footer .col:nth-child(5) {
+        flex: 0 0 14.7%;
+        max-width: 14.7%;
+    }
+    .subscribe {
+        margin-top: 3.1rem;
+        flex: 0 0 35.3%;
+        max-width: 35.3%;
+        margin-right: 2.9rem;
+    }
+    .footer .footer-contact .footer-contact-col:first-child{
+        flex: 0 0 43.7%;
+        max-width: 43.7%;
+    }
+    .footer .footer-contact {
+        margin-top: 3.1rem;
+    }
+    .footer .footer-contact .footer-contact-col:first-child a:after {
+        right: -0.4rem;
+    }
+    .footer .footer-bottom-nav ul {
+        padding-left: 0.9rem;
+        margin-top: 0.8rem;
+        justify-content: space-between;
+    }
+    .footer .footer-bottom-nav li:after {
+        display: none;
+    }
+    .footer .copyright img {
+        margin-bottom: 0.5rem;
+    }
+    .footer .copyright p {
+        font-size: 0.75rem;
+        max-width: 12rem;
+        line-height: 0.875rem;
+        letter-spacing: 0.857143px;
+        margin: 0 auto;
+    }
+    /* ----- /FOOTER ----- */
+    /*  */
+    /* ----- SECTION PAGE TITLE ----- */
+    .section-page-title .page-title-content {
+        height: 14.7rem;
+        background-position-y: top;
+    }
+    /* ----- /SECTION PAGE TITLE ----- */
+    /*  */
+    /* ----- SECTION ABOUT ----- */
+    .section-about .col:first-child {
+        flex: 0 0 55%;
+        max-width: 55%;
+    }
+    /* ----- /SECTION ABOUT ----- */
+    /*  */
+    /* ----- SECTION OUR MISSION ----- */
+    .section-our-mission .content-wrap {
+        padding: 5rem 2.1rem 5.35rem 2.1rem;
+    }
+    .section-our-mission .right-col .content-wrap {
+        padding: 5rem 2.1rem 5.35rem 2.1rem;
+        text-align: left;
+    }
+    .section-our-mission .right-col .content-wrap p {
+        margin-left: 0;
+    }
+    /* ----- /SECTION OUR MISSION ----- */
+    /*  */
+    /* ----- SECTION TEAM ----- */
+    .team-members .team-members-col{
+        padding-top: 3rem;
+    }
+    .team-member .image-wrap {
+        height: 18.2rem;
+    }
+    .team-member.team-member-small .image-wrap {
+        height: 14.1rem;
+    }
+    .team-member {
+        margin-bottom: 3.5rem;
+    }
+    .team-member h5 {
+        font-size: 1rem;
+        letter-spacing: 3px;
+    }
+    .team-member .lead {
+        font-size: 1rem;
+    }
+    .section-team {
+        padding-bottom: 1.5rem;
+    }
+    .team-member .image-wrap .contact-links a {
+        width: 2rem;
+        height: 2rem;
+        padding: 0.35rem;
+        margin: 0 0.3rem;
+    }
+    /* ----- /SECTION TEAM ----- */
+    /*  */
+    /* ----- SECTION TEAM SHIPPING ----- */
+    .section-team-shipping .team-member .image-wrap {
+        height: 18rem;
+    }
+    /* ----- /SECTION TEAM SHIPPING ----- */
+    /*  */
+    /* ----- SECTION AWARDS ----- */
+    .parallax-img {
+        height: 22.125rem;
+    }
+    /* ----- /SECTION AWARDS ----- */
+    /*  */
+    /* ----- SECTION AWARDS EXCELLENCE ----- */
+    .section-excellence p {
+        margin-left: 0;
+        max-width: 100%;
+    }
+    /* ----- /SECTION AWARDS EXCELLENCE ----- */
+    /*  */
+    /* ----- SECTION BANNER ----- */
+    .section-banner .banner-content p {
+        padding: 0 2rem;
+    }
+    /* ----- /SECTION BANNER ----- */
+    /*  */
+    /* ----- SECTION IMAGE CONTENT ----- */
+    .section-image-content .content-col {
+        flex: 0 0 100%;
+        max-width: 100%;
+        order: 1;
+    }
+    .section-image-content .image-col{
+        order: 2;
+    }
+    .section-image-content .content-wrap {
+        align-items: center;
+    }
+    .section-image-content .content-wrap .line {
+        position: static;
+        margin-bottom: 3rem;
+        width: 50%;
+    }
+    .section-image-content .content-wrap .line span:last-child {
+        width: 50%;
+        background: #0057A8;
+    }
+    .section-image-content .content-wrap .btn {
+        margin-top: 3.3rem;
+    }
+    .section-image-content .image-content, 
+    .section-image-content.image-left .image-content {
+        align-items: center;
+        text-align: center;
+    }
+    .section-image-content.image-left .content-wrap {
+        align-items: center;
+    }
+    .section-image-content.image-left .content-wrap .line {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .section-image-content.image-left .content-wrap .line span:first-child, 
+    .section-image-content.image-left .content-wrap .line span:last-child {
+        width: 50%;
+    }
+    .section-image-content.image-left .content-wrap .line span:first-child {
+        background: #03B5CB;
+    }
+    .section-image-content.image-left .content-wrap .line span:last-child {
+        background: #0057A8;
+    }
+    /* ----- /SECTION IMAGE CONTENT ----- */
+    /*  */
+    /* ----- SECTION SERVICES ----- */
+    .section-services-gray .row {
+        margin: 0 -3.3rem 0 1rem;
+    }
+    /* ----- /SECTION SERVICES ----- */
+    /*  */
+    /* ----- SECTION SLIDER ----- */
+    .section-slider .owl-carousel .owl-nav {
+        left: 2.3rem;
+        right: 2.3rem;
+    }
+    .section-slider .slider-images .item {
+        height: 37.5rem;
+    }
+    .slider-images .item .slider-content {
+        top: 43.4%;
+    }
+    /* ----- /SECTION SLIDER ----- */
+    /*  */
+    /* ----- SECTION FACILITIES ----- */
+    .section-facilities {
+        padding-top: 3.6rem;
+        padding-bottom: 1.8rem;
+    }
+    .section-facilities h4 {
+        letter-spacing: 1px;
+        margin-bottom: 1.1rem;
+    }
+    .section-facilities .collapse-item > .btn {
+        padding: 0;
+        font-size: 1.125rem;
+        font-weight: 700;
+        color: #0057A8;
+        letter-spacing: 1px;
+        line-height: 1.625rem;
+        position: relative;
+    }
+    .section-facilities .collapse-item > .btn:hover{
+        text-decoration: none;
+    }
+    .section-facilities .collapse-item > .btn.collapsed:hover{
+        color: #03B5CB;
+        text-decoration: none;
+    }
+    .section-facilities .collapse-item > .btn.collapsed:hover svg path{
+        stroke: #03B5CB;
+    }
+    .section-facilities .collapse-item > .btn:focus{
+        box-shadow: none;
+        text-decoration: none;
+    }
+    .section-facilities .collapse-item > .btn.collapsed{
+        color: #7F7F7F;
+        font-weight: 400;
+    }
+    .section-facilities .collapse-item > .btn svg {
+        position: absolute;
+        right: -0.1rem;
+        top: 0.3rem;
+        width: 1.1rem;
+        height: 0.7rem;
+        transition: 0.4s;
+    }
+    .section-facilities .collapse-item > .btn.collapsed svg {
+        transform: rotate(-90deg);
+        right: -0.4rem;
+        transition: 0.4s;
+    }
+    .section-facilities .collapse-item .list {
+        margin-top: 1rem;
+        margin-bottom: 2.2rem;
+    }
+    .section-facilities .collapse-item {
+        margin-bottom: 1.2rem;
+    }
+    /* ----- /SECTION FACILITIES ----- */
+    /*  */
+    /* ----- SECTION LANGUAGES ----- */
+    .section-languages {
+        margin-bottom: 1.1rem;
+    }
+    .section-languages .right-col {
+        order: 1;
+        height: 31.3rem;
+    }
+    .section-languages .left-col {
+        order: 2;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .section-languages .content-wrap {
+        padding: 2.85rem 1rem 3.7rem;
+        align-items: center;
+    }
+    .section-languages .content-wrap .list {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-left: -1.2rem;
+    }
+    .section-languages .content-wrap .list li {
+        margin: 0 1.45rem;
+    }
+    /* ----- /SECTION LANGUAGES ----- */
+    /*  */
+    /* ----- SECTION MARINA ----- */
+    .section-marina .title img {
+        max-width: 14rem;
+    }
+    /* ----- /SECTION MARINA ----- */
+    /*  */
+    /* ----- SECTION CONTACT ----- */
+    .section-contact .container {
+        padding: 0 1.1rem;
+    }
+    .section-contact .content-wrap .col:first-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    /* ----- /SECTION CONTACT ----- */
+    /*  */
+}
+@media(max-width: 767px){
+    .section {
+        padding-top: 4.15rem;
+    }
+    h1, h2{
+        font-size: 1.25rem;
+        line-height: 1.4375rem;
+        letter-spacing: 0.571429px;
+    }
+    h4{
+        font-size: 1rem;
+        line-height: 1.1875rem;
+        letter-spacing: 3px;
+    }
+    h6 {
+        letter-spacing: 1px;
+    }
+    .title h4 {
+        margin-bottom: 0.8rem;
+    }
+    .line span {
+        height: 1px;
+    }
+    .lead {
+        font-size: 1rem;
+        line-height: 1.625rem;
+    }
+    .lead-large{
+        font-size: 1.125rem;
+        line-height: 1.875rem;
+    }
+    /* ----- HEADER ----- */
+    .header {
+        padding: 1.75rem 1.3rem;
+    }
+    /* ----- /HEADER ----- */
+    /*  */
+    /* ----- SECTION HERO ----- */
+    .section-hero .owl-carousel .item {
+        height: 28.7rem;
+        padding: 0 1rem 0.1rem;
+    }
+    .section-hero h4 {
+        margin-bottom: 1rem;
+        font-size: 0.75rem;
+        line-height: 0.875rem;
+        letter-spacing: 4px;
+    }
+    .owl-carousel .owl-dots {
+        bottom: 2rem;
+    }   
+    .owl-carousel .owl-dots .owl-dot {
+        width: 3.525rem;
+    }
+    /* ----- /SECTION HERO ----- */
+    /*  */
+    /* ----- SECTION GROUP ----- */
+    .section-group .col:first-child,
+    .section-group .col:last-child {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .section-group .btn {
+        margin-top: 1.25rem;
+    }
+    /* ----- /SECTION GROUP ----- */
+    /*  */
+    /* ----- SECTION INDUSTRIES ----- */
+    .industry-item {
+        height: 11.2rem;
+    }
+    .section-industries .content-wrap {
+        margin-top: 2.95rem;
+    }
+    
+    /* ----- /SECTION INDUSTRIES ----- */
+    /*  */
+    /* ----- SECTION CONTACT US ----- */
+    .section-contact-us{
+        margin-bottom: 0;
+    }
+    /* ----- /SECTION CONTACT US ----- */
+    /*  */
+    /* ----- SECTION PROJECTS ----- */
+    .section-projects .content-wrap p {
+        max-width: 17rem;
+    }
+    /* ----- /SECTION PROJECTS ----- */
+    /*  */
+    /* ----- FOOTER ----- */
+    .footer-col,
+    .footer .col:nth-child(2),
+    .footer .col:nth-child(3),
+    .footer .col:nth-child(4),
+    .footer .col:nth-child(5){
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .footer .subscribe-col {
+        order: 1;
+    }
+    .footer .col:first-child{
+        order: 2;
+    }
+    .footer .col:nth-child(2){
+        order: 3;
+    }
+    .footer .col:nth-child(3){
+        order: 4;
+    }
+    .footer .col:nth-child(4){
+        order: 5;
+    }
+    .footer .col:nth-child(5){
+        order: 6;
+    }
+    .footer .col:nth-child(6){
+        order: 7;
+    }
+    .footer .col:nth-child(7){
+        order: 8;
+    }
+    .footer .col:nth-child(9){
+        order: 9;
+    }
+    .subscribe {
+        flex: 0 0 100%;
+        max-width: 100%;
+        width: 100%;
+        justify-content: center;
+        text-align: center;
+        margin: 0;
+        flex-direction: column;
+        margin-bottom: 1.6rem;  
+        padding: 0 0.5rem;
+    }
+    .footer .row {
+        margin: 0 -0.3rem;
+    }
+    .footer .col,
+    .footer .col:first-child,
+    .footer .col:nth-child(2),
+    .footer .col:nth-child(3),
+    .footer .col:nth-child(4),
+    .footer .col:nth-child(5) {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .footer .footer-content {
+        padding-top: 2rem;
+        padding-bottom: 4rem;
+    }
+    .subscribe .subscribe-title {
+        margin: 0 auto 1.1rem;
+    }
+    .footer .footer-contact {
+        margin-top: 1.7rem;
+        margin-bottom: 1.3rem;
+    }
+    .footer .footer-contact .footer-contact-col:first-child {
+        flex: 0 0 100%;
+        max-width: 100%;
+        justify-content: center;
+        margin: 0;
+        text-align: center;
+    }
+    .footer .nav-col ul{
+        max-height: 0;
+        transition: 0.4s;
+        overflow: hidden;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .footer .nav-col ul.footer-menu-open{
+        max-height: 1000px;
+        transition: 0.4s;
+        opacity: 1;
+        padding-bottom: 1.1rem;
+        visibility: visible;
+    }
+    .footer .footer-link {
+        padding: 0.38rem 0;
+        position: relative;
+        margin-bottom: 0;
+    }
+    .footer .footer-nav-link:after{
+        content: '';
+        background-image: url(../img/icon-plus.svg);
+        width: 0.95rem;
+        height: 0.95rem;
+        background-size: contain;
+        position: absolute;
+        top: 0.6rem;
+        right: -0.1rem;
+        background-repeat: no-repeat;
+        transition: 0.4s;
+        background-position-y: center;
+    }
+    .footer .footer-nav-link.active:after{
+        transition: 0.4s;
+        background-image: url(../img/icon-minus.svg);
+    }
+    .footer .nav-col{
+        border-bottom: 1px solid #03B5CB;
+        margin-bottom: 0.3rem;
+    }
+    .footer .footer-social {
+        margin-top: 1.2rem;
+        margin-bottom: 0.6rem;
+    }
+    .footer .contact-link {
+        text-align: center;
+        display: block;
+        max-width: 12rem;
+        margin: 0 auto;
+        line-height: 1.375rem;
+    }
+    .footer .copyright img {
+        margin-bottom: 0.1rem;
+    }
+    .footer .copyright p {
+        line-height: 1.25rem;
+    }
+    .header .menu li {
+        font-size: 1.25rem;
+        letter-spacing: 1px;
+        line-height: 1.4375rem;
+        margin-bottom: 1.08rem;
+    }
+    .header .menu .number {
+        font-size: 1.25rem;
+        margin-top: 0;
+        margin-right: 0.9rem;
+        line-height: 1.4375rem;
+    }
+    .header .header-nav {
+        padding: 7.8rem 1.3rem 11.3rem;
+    }
+    .header .menu .has-sub-menu > a:after {
+        width: 1.1rem;
+        height: 1rem;
+        top: 0.3rem;
+        right: -0.3rem;
+    }
+    .header .header-contact {
+        margin-top: 0.9rem;
+    }
+    .header .header-contact a {
+        font-size: 0.875rem;
+    }
+    .header .header-contact > a {
+        font-size: 0.75rem;
+        line-height: 0.875rem;
+        letter-spacing: 0.75px;
+        max-width: 89.5%;
+        flex: 0 0 89.5%;
+        margin-bottom: 1.3rem;
+    }
+    .header .header-contact > div a{
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 0.4rem;
+        display: block;
+    }
+    .header .menu .has-sub-menu.sub-menu-open > a:after {
+        top: 0.3rem;
+        right: -0.2rem;
+    }
+    .header .menu .has-sub-menu.sub-menu-open > a:after {
+        top: 0.3rem;
+        right: -0.2rem;
+    }
+    .header .sub-menu {
+        margin-left: 2.1rem;
+    }
+    .header li.sub-menu-open .sub-menu {
+        margin-top: 0.3rem;
+    }
+    .header .menu .sub-menu li {
+        font-size: 0.875rem;
+        line-height: 1rem;
+        margin-bottom: 0.2rem;
+    }
+    /* ----- /FOOTER ----- */
+    /*  */
+    /* ----- SECTION NEWS ----- */
+    .section-news {
+        padding-top: 2.3rem;
+        padding-bottom: 4.3rem;
+    }
+    .section-news .title {
+        margin-bottom: 2.2rem;
+    }
+    .news-item .image {
+        height: 12.5rem;
+    }
+    .news-item .date {
+        margin-bottom: 0.85rem;
+    }
+    .news-item h6 {
+        margin-bottom: 0.8rem;
+    }
+    .news-item p {
+        font-size: 0.875rem;
+        line-height: 1.375rem;
+    }
+    .news-item .link {
+        margin-top: 1.4rem;
+    }
+    .news-item {
+        margin-bottom: 3.2rem;
+    }
+    /* ----- /SECTION NEWS ----- */
+    /*  */
+    /* ----- SECTION CONTACT US ----- */
+    .section-contact-us .content-wrap h1 {
+        font-size: 3.125rem;
+        letter-spacing: 0.68px;
+        line-height: 3.6875rem;
+        margin: 0 -0.7rem 1.2rem;
+    }
+    .section-contact-us .content-wrap {
+        padding: 3.6rem 1.3rem 3.5rem;
+    }
+    .section-contact-us .content-wrap p {
+        line-height: 1.625rem;
+    }
+    .section-contact-us .content-wrap .btn {
+        margin-bottom: 0;
+        margin-top: 1rem;
+    }
+    .section-contact-us .content-wrap{
+        background-size: cover;
+    }
+    /* ----- /SECTION CONTACT US ----- */
+    /*  */
+    /* ----- SECTION MESSAGE ----- */
+    .section-message {
+        padding-bottom: 0;
+    }
+    .section-message .image-wrap {
+        position: relative;
+    }
+    .section-message .image-wrap::before{
+        content: '';
+        background-color: rgba(0, 0, 0, 0.3);
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+    .section-message .image-wrap .title {
+        position: absolute;
+        bottom: 0.9rem;
+        margin-bottom: 0;
+        left: 0.9rem;
+        right: 1.9rem;
+    }
+    .section-message img {
+        height: 25.1rem;
+    }
+    .section-message .image-wrap .title h4, 
+    .section-message .image-wrap .title h4 span{
+        color: #fff;
+    }
+    .section-message .image-wrap .title h4:last-child {
+        margin-top: 0.5rem;
+        margin-bottom: 0;
+    }
+    .section-message .image-wrap .title h4 {
+        margin-bottom: 0.7rem;
+        font-size: 1.125rem;
+        letter-spacing: 4.5px;
+    }
+    .section-message .title .line{
+        position: static;
+    }
+    .section-message .title .line span:last-child {
+        width: 50%;
+        background: #0057A8;
+    }
+    .section-message .title .line span:first-child {
+        background: #03B5CB;
+    }
+    .section-message .content-wrap {
+        margin: 0 -1.2rem;
+        padding: 2.7rem 2.4rem 2.7rem 1.1rem;
+        text-align: left;
+    }
+    .section-message .content-wrap p {
+        font-size: 0.875rem;
+    }
+    .section-message .content-wrap p br {
+        display: none;
+    }
+    /* ----- /SECTION MESSAGE ----- */
+    /*  */
+    /* ----- SECTION PAGE TITLE ----- */
+    .section-page-title .page-title-content {
+        background-position-y: bottom;
+        height: 8.7rem;
+        background-repeat: no-repeat repeat;
+    }
+    .section-page-title.dark-style .page-title-content {
+        height: 14.7rem;
+        background-repeat: no-repeat;
+        background-position-y: center;
+        background-size: cover;
+        background-position-x: center;
+    }
+    .section-page-title .page-title-content a {
+        display: block;
+        white-space: normal;
+        max-width: 80%;
+        word-wrap: break-word;
+        text-align: center;
+    }
+    /* ----- /SECTION PAGE TITLE ----- */
+    /*  */
+    /* ----- SECTION ABOUT ----- */
+    .section-about {
+        padding-bottom: 2rem;
+    }
+    .section-about .container{
+        padding: 0 1.3rem;
+    }
+    .section-about .title {
+        margin-bottom: 3.1rem;
+    }
+    .section-about .lead br {
+        display: none;
+    }
+    .section-about .col .line {
+        margin: 2rem auto 2rem;
+    }
+    .slider-images {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    .slider-images .item {
+        height: 12rem;
+    }
+    .slider-images .item img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .slider-images .owl-nav {
+        display: none;
+    }
+    /* ----- /SECTION ABOUT ----- */
+    /*  */
+    /* ----- SECTION OUR MISSION ----- */
+    .section-our-mission .right-col .content-wrap {
+        padding: 2rem 1.1rem 2.35rem 1.1rem;
+    }
+    .section-our-mission .content-wrap {
+        padding: 2rem 1.1rem 2.35rem 1.1rem;
+    }
+    /* ----- /SECTION OUR MISSION ----- */
+    /*  */
+    /* ----- SECTION TEAM ----- */
+    .team-members .team-members-col{
+        padding-top: 0;
+    }
+    .team-members {
+        margin: 4.1rem -0.9rem 0;
+    }
+    .team-member .image-wrap, .team-member.team-member-small .image-wrap,
+    .section-team-shipping .team-member .image-wrap {
+        height: auto;
+    }
+    .team-member, .team-member.team-member-small {
+        margin-bottom: 2.5rem;
+    }
+    /* ----- /SECTION TEAM ----- */
+    /*  */
+    /* ----- SECTION TEAM SHIPPING ----- */
+    .section-team-shipping .container-fluid {
+        padding: 0;
+    }
+    .section-team-shipping .content-wrap {
+        padding: 3.7rem 0 4rem;
+    }
+    /* ----- /SECTION TEAM SHIPPING ----- */
+    /*  */
+    /* ----- SECTION AWARDS ----- */
+    .section-awards {
+        padding-top: 3rem;
+    }
+    .section-awards .title {
+        margin-bottom: 2.2rem;
+    }
+    .section-awards .content {
+        margin-bottom: 3.4rem;
+    }
+    .parallax-img {
+        height: 10.125rem;
+        background-position-y: center;
+        background-size: cover;
+    }
+    .section-awards .content-wrap {
+        padding-top: 3.2rem;
+        text-align: center;
+        padding-bottom: 2rem;
+    }
+    /* ----- /SECTION AWARDS ----- */
+    /*  */
+    /* ----- SECTION AWARDS BLUE ----- */
+    .section-awards-blue .content-wrap {
+        padding-top: 5.25rem;
+        padding-bottom: 3.3rem;
+        background-position: 150% -15%;
+        background-size: 15rem;
+    }
+    .section-awards-blue .content-wrap .row {
+        margin: 0;
+    }
+    .section-awards-blue .content-wrap p {
+        font-size: 1rem;
+    }
+    /* ----- /SECTION AWARDS BLUE ----- */
+    /*  */
+    /* ----- SECTION AWARDS EXCELLENCE ----- */
+    .section-excellence .content-wrap {
+        padding-top: 2.7rem;
+        padding-bottom: 2.7rem;
+    }
+    .section-excellence .content-wrap img {
+        margin-bottom: 1rem;
+    }
+    .section-excellence h3 {
+        font-size: 1rem;
+        margin-bottom: 1rem;
+    }
+    /* ----- /SECTION AWARDS EXCELLENCE ----- */
+    /*  */
+    /* ----- SECTION BANNER ----- */
+    .section-banner .banner-content {
+        height: 38rem;
+        padding: 0;
+    }
+    .section-banner .banner-content p {
+        padding: 0;
+        font-size: 0.875rem;
+        line-height: 1.1875rem;
+    }
+    .section-banner .banner-content h4 {
+        margin-bottom: 0.8rem;
+    }
+    /* ----- /SECTION BANNER ----- */
+    /*  */
+    /* ----- SECTION TEXT ----- */
+    .section-text {
+        padding-top: 2.3rem;
+        padding-bottom: 1.7rem;
+    }
+    /* ----- /SECTION TEXT ----- */
+    /*  */
+    /* ----- SECTION IMAGE CONTENT ----- */
+    .section-text {
+        padding-top: 2.3rem;
+        padding-bottom: 1.7rem;
+    }
+    .section-image-content .content-wrap .line {
+        width: 10rem;
+    }
+    .section-image-content .content-wrap, 
+    .section-image-content.image-left .content-wrap {
+        padding: 2.95rem 2.2rem 3.25rem;
+    }
+    .section-image-content .image-wrap {
+        height: 22rem;
+    }
+    .section-image-content .image-content p {
+        font-size: 0.875rem;
+        line-height: 1.1875rem;
+    }
+    .section-image-content {
+        margin-bottom: 1.9rem;
+    }
+    /* ----- /SECTION IMAGE CONTENT ----- */
+    /*  */
+    /* ----- SECTION LAVAR ----- */
+    .section-lavar .title img {
+        position: static;
+        margin: 2rem auto;
+        display: block;
+    }
+    /* ----- /SECTION LAVAR ----- */
+    /*  */
+    /* ----- SECTION ISO ----- */
+    .section-iso .row{
+        margin: 0;
+    }
+    /* ----- /SECTION ISO ----- */
+    /*  */
+    /* ----- SECTION SERVICES ----- */
+    .section-services .content-wrap {
+        padding-bottom: 2rem;
+        padding-top: 3rem;
+    }
+    .section-services .content-wrap h4 {
+        margin-bottom: 2.7rem;
+    }
+    /* ----- /SECTION SERVICES ----- */
+    /*  */
+    /* ----- SECTION SERVICES ----- */
+    .section-services-gray .row {
+        margin: 0 0.5rem;
+    }
+    .section-services-gray .content-wrap li:last-child {
+        margin-bottom: 1.1rem;
+    }
+    .section-services-gray .col {
+        justify-content: flex-start;
+    }
+    .section-services .content-wrap li a br {
+        display: none;
+    }
+    /* ----- /SECTION SERVICES ----- */
+    /*  */
+    /* ----- SLIDER IMAGES ----- */
+    .slider-images .item .slider-content {
+        top: 1rem;
+        left: 1rem;
+    }
+    /* ----- /SLIDER IMAGES ----- */
+    /*  */
+    /* ----- SECTION OIL ----- */
+    .section-oil .parallax-img {
+        margin-bottom: 3rem;
+    }
+    /* ----- /SECTION OIL ----- */
+    /*  */
+    /* ----- SECTION MARINA ----- */
+    .section-marina {
+        padding-top: 4rem;
+    }
+    .section-about .col:first-child, .section-about .col:last-child {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    /* ----- /SECTION MARINA ----- */
+    /*  */
+    /* ----- SECTION ISO ----- */
+    .section-iso-large .content-wrap {
+        padding-top: 4.2rem;
+        padding-bottom: 4.5rem;
+    }
+    /* ----- /SECTION ISO ----- */
+    /*  */
+    /* ----- SECTION SLIDER ----- */
+    .section-slider .slider-images .item {
+        height: 20rem;
+    }
+    /* ----- /SECTION SLIDER ----- */
+    /*  */
+    /* ----- SECTION LANGUAGES ----- */
+    .section-languages .right-col {
+        height: 15rem;
+    }
+    .section-languages .content-wrap .list {
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+    .section-languages .content-wrap {
+        align-items: flex-start;
+    }
+    .section-languages .content-wrap .list li {
+        margin-bottom: 0.95rem;
+    }
+    .section-languages .content-wrap .list li:last-child {
+        margin-bottom: 0;
+    }
+    /* ----- /SECTION LANGUAGES ----- */
+    /*  */
+    /* ----- SECTION NEWS SINGLE ----- */
+    .section-news-single .content-wrap {
+        padding-top: 6.4rem;
+    }
+    
+    .section-news-single .content-wrap .link-arrow-left {
+        margin-bottom: 2rem;
+    }
+    
+    .section-news-single .date {
+        margin-top: 2rem;
+    }
+    
+    .section-news-single .social {
+        flex-direction: column;
+    }
+    .section-news-single .social .icons {
+        margin-top: 1.2rem;
+    }
+    .section-news-single .social h5 {
+        margin: 0;
+    }
+    /* ----- /SECTION NEWS SINGLE ----- */
+    /*  */
+    /* ----- SECTION CONTACT ----- */
+    .section-contact .contact-links a {
+        font-size: 1.125rem;
+        margin-bottom: 0.2rem;
+    }
+    .section-contact .content-wrap h2 {
+        font-size: 2rem;
+        line-height: 2.5375rem;
+        letter-spacing: 0.571429px;
+    }
+    .section-contact .form-wrap {
+        padding: 3.9rem 1rem 4.4rem;
+    }
+    .section-contact .form-wrap form {
+        margin: 0;
+    }
+    .section-contact .form-wrap .bottom-nav img {
+        margin: 0 auto;
+        max-width: 15.4rem;
+        margin-bottom: 1.1rem;
+    }
+    .section-contact .form-wrap .bottom-nav .btn {
+        margin: 0 auto;
+    }
+    /* ----- /SECTION CONTACT ----- */
+    /*  */
+}
+/* ----- /MEDIA ----- */
+/*  */
